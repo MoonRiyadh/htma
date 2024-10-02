@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Riyadh
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: HTMA
+last_name: Riyadh
 
 # Status emoji
 status:
@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Doctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: CISPA
+    url: https://cispa.de/en 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:htma.riyadh@cispa.de'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -47,13 +47,14 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Mobile Security
+  - Human-Computer Interaction
+  - Usable Security and Privacy 
+  - Immersive Technology (AR/VR)
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: M.Sc. Computer Science
+    institution: Saarland University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -61,8 +62,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: B.Sc. Computer Science and Engineering
+    institution: American International University-Bangladesh
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -84,11 +85,11 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Doctoral Researcher
+    company_name: CISPA Helmholtz Center for Information Security
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-01-01
     date_end: ''
     summary: |2-
       Responsibilities include:
